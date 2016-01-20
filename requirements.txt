@@ -1,0 +1,36 @@
+MySQL-python
+Django==1.4.11
+gunicorn==0.14.6
+httplib2
+raven==2.0.6
+celery
+django-filter==0.9.1
+django-celery
+django-kombu
+django-mathfilters==0.3.0
+python-memcached==1.53
+django-http-proxy==0.4
+djangorestframework==3.1.3
+drf-extensions==0.2.7
+#bitfield depend on nose
+nose
+django-bitfield
+BeautifulSoup==3.2.1
+#jsonfield depend on six
+six==1.6.1
+jsonfield==0.9.20
+gevent==1.0.1
+lxml==2.3
+South==1.0
+qrcode==5.1
+
+Pillow>=2.0.0
+coverage==3.5
+html5lib==0.90
+pyPdf2==1.19
+xhtml2pdf==0.0.6
+reportlab==2.5
+pingpp==2.0.1
+qiniu==7.0.5
+django-chartit==0.1
+pyExcelerator==0.6.4.1
