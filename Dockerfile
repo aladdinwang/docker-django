@@ -3,7 +3,6 @@ FROM ubuntu:14.04
 MAINTAINER aladdinwang <aladdin_wang@aliyun.com>
 
 ADD Python-2.7.11.tar.xz /tmp
-ADD sources.list.163 /tmp
 ADD get-pip.py /tmp
 ADD Imaging-1.1.7.tar.gz /tmp
 ADD resolv.conf /tmp
